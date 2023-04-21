@@ -1,6 +1,7 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+<img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" />
+</div>
+
   
 
 
@@ -13,6 +14,9 @@
   
 
 - ⚡ Fun fact: I'm a guitarist  
+
+
+- 🔗 You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
   
 
 <br/>  
@@ -57,10 +61,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -79,15 +79,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AngieMGonzalez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -103,4 +94,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Thank you for the format <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
