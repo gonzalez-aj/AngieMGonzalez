@@ -7,7 +7,7 @@
 
 
 ### About Me:  
-### <div align="center">I'm Angie, a full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduating June 2023 🚀</div>  
+### <div align="center">I'm Angie, a full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀</div>  
   
 
 - 🌱 I’m currently learning Python and SQL  
