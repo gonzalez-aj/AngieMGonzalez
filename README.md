@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" />
+<img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" alt="AMG Logo" />
 </div>
 
   
@@ -17,6 +17,12 @@
 
 - 🔗 You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
   
+
+<br/>  
+
+## Checkout my deployed Front-End Capstone [SonGlue](https://songlue.netlify.app/)
+<img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 80%" alt="SonGlue"/>
+
 
 <br/>  
 
