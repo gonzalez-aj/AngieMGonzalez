@@ -9,12 +9,11 @@
 ### About Me:  
 ### <div align="center">I'm Angie, a full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀</div>  
   
+- 📥 I am open to work!
 
-- 🌱 I’m currently learning Python and SQL  
+- 🌱 Python, Django, SQL, React, Next.JS, CSS, TailwindCSS
   
-
 - ⚡ Fun fact: I'm a guitarist  
-
 
 - 🔗  You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
   
