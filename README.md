@@ -22,12 +22,18 @@
 
 ## Checkout my Projects!
 ### Deployed Front-end Capstone: [SonGlue](https://songlue.netlify.app/)
-<img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 80%" alt="SonGlue"/>
+<img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 70%" alt="SonGlue"/>
+
 - [code](https://github.com/AngieMGonzalez/grabaudio)
 - [video walk-through of MVP](https://www.loom.com/share/29511fce06db4be2bfbde6a31b344a07?sid=610dc7c1-da65-44f5-9c29-4af6915f9347)
 
 ### Deployed Front-End Group Project: [Pintwist](https://pintwist.netlify.app/)
-<img src="https://user-images.githubusercontent.com/114124374/218232097-187bd435-eaeb-45be-a366-f82ad2ccfba9.png" alt="PinTwist"/>
+<img src="https://user-images.githubusercontent.com/114124374/218232097-187bd435-eaeb-45be-a366-f82ad2ccfba9.png" tyle="width: 70%" alt="PinTwist"/>
+
+- [code](https://github.com/nss-evening-cohort-21/InCRUDibles)
+- [video walk-through](https://www.loom.com/share/8331fafbc0ef4de49a8f81d9fd316573?sid=512f8c5a-8ff8-4af0-bb29-4410af566dbf)
+
+
 
 <br/>  
 
