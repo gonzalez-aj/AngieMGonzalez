@@ -20,19 +20,24 @@
 
 <br/>  
 
-## Checkout my Projects!
-### Deployed Front-end Capstone: [SonGlue](https://songlue.netlify.app/)
-<img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 70%" alt="SonGlue"/>
+## My Projects:
 
+### Ful-Stack Final Capstone: Stay Gold, Cowboy
+- [client-side code](https://github.com/AngieMGonzalez/staygoldcowboy-client)
+- [server-side code](https://github.com/AngieMGonzalez/staygoldcowboy-server)
+- [video walk-through of MVP](https://www.loom.com/share/c0f3bf90f50745d586bc2de0fa3b7ca2?sid=b375587d-dd50-4685-a176-6fd9f3ea5f83)
+<img src="https://user-images.githubusercontent.com/114124374/250223135-c65c9156-002c-4cd6-b170-c4c9dcaf4565.png" align="center" style="width: 70%" alt="Stay Gold, Cowboy"/>
+
+
+### Deployed Front-end Capstone: [SonGlue](https://songlue.netlify.app/)
 - [code](https://github.com/AngieMGonzalez/grabaudio)
 - [video walk-through of MVP](https://www.loom.com/share/29511fce06db4be2bfbde6a31b344a07?sid=610dc7c1-da65-44f5-9c29-4af6915f9347)
+<img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 70%" alt="SonGlue"/>
 
 ### Deployed Front-End Group Project: [Pintwist](https://pintwist.netlify.app/)
-<img src="https://user-images.githubusercontent.com/114124374/218232097-187bd435-eaeb-45be-a366-f82ad2ccfba9.png" style="width: 70%" alt="PinTwist"/>
-
 - [code](https://github.com/nss-evening-cohort-21/InCRUDibles)
-- [video walk-through](https://www.loom.com/share/8331fafbc0ef4de49a8f81d9fd316573?sid=512f8c5a-8ff8-4af0-bb29-4410af566dbf)
-
+- [video of group walk-through](https://www.loom.com/share/8331fafbc0ef4de49a8f81d9fd316573?sid=512f8c5a-8ff8-4af0-bb29-4410af566dbf)
+<img src="https://user-images.githubusercontent.com/114124374/218232097-187bd435-eaeb-45be-a366-f82ad2ccfba9.png" style="width: 70%" alt="PinTwist"/>
 
 
 <br/>  
