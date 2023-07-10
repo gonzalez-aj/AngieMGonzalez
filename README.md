@@ -16,6 +16,8 @@
 - ⚡ Fun fact: I'm a guitarist  
 
 - 🔗 You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
+
+- 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
   
 
 <br/>  
