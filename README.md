@@ -24,7 +24,7 @@
 
 ## My Projects:
 
-### Ful-Stack Final Capstone: Stay Gold, Cowboy
+### Full-Stack Final Capstone: Stay Gold, Cowboy
 - [client-side code](https://github.com/AngieMGonzalez/staygoldcowboy-client)
 - [server-side code](https://github.com/AngieMGonzalez/staygoldcowboy-server)
 - [video walk-through of MVP](https://www.loom.com/share/c0f3bf90f50745d586bc2de0fa3b7ca2?sid=b375587d-dd50-4685-a176-6fd9f3ea5f83)
