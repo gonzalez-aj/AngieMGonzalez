@@ -15,10 +15,12 @@
   
 - ⚡ Fun fact: I'm a guitarist  
 
-- 🔗 You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
-
 - 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
   
+- 🔗 You can reach out to me on [LinkedIn here](https://www.linkedin.com/in/angiemariegonzalez/)
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/angiemariegonzalez/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 <br/>  
 
@@ -75,21 +77,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/AngieMGonzalez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/angiemariegonzalez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+<br/>
 
 
 ## Github Stats  
@@ -105,4 +93,8 @@
 
 <br/>  
 
-<div align="center"></div>
+<div align="center">
+<a href="https://github.com/https://github.com/AngieMGonzalez" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+</div>
