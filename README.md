@@ -106,7 +106,3 @@
 <br/>  
 
 <div align="center"></div>
-<br />
-
-----
-<div align="center">Thank you for the format <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
