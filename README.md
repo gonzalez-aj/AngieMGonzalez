@@ -7,8 +7,12 @@
 
 
 ### About Me:  
-### <div align="center">I'm Angie, a full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀</div>  
-  
+### <div align="center">I'm Angie, a full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀 </div>  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/angiemariegonzalez/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>
+
 - 📥 I am open to work!
 
 - 🌱 Python, Django, SQL, React, Next.JS, HTML, CSS, Bootstrap, TailwindCSS
@@ -16,10 +20,6 @@
 - ⚡ Fun fact: I'm a guitarist  
 
 - 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
-  
-- 🔗 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/angiemariegonzalez/)
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/angiemariegonzalez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 <br/>  
 
