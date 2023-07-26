@@ -15,11 +15,14 @@
 
 - 📥 I am open to work!
 
+- 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
+
 - 🌱 Python, Django, SQL, React, Next.JS, HTML, CSS, Bootstrap, TailwindCSS
+
+- Check out my explanation on how I created a [search bar using Next.JS](https://gist.github.com/AngieMGonzalez/0743a562563613777625dd121edf81f2)
   
 - ⚡ Fun fact: I'm a guitarist  
 
-- 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
 
 <br/>  
 
