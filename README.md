@@ -2,16 +2,22 @@
 <img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" alt="AMG Logo" />
 </div>
 
-  
+<br/>
+
+<div align="center">
+Hello! I'm A.J.
+  <br/>
+I'm a full-stack freelance web developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀
+</div>
+
+<br/>
 
 
-
-### About Me:  
-### <div align="center">I'm A.J.! A full-time full-stack freelance developer 👨‍💻 NSS Cohort 62 Graduated June 2023 🚀 </div>  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalez-aj/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </div>
+<br/>
 
 - 📥 I am open to work!
 
