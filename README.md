@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" alt="AMG Logo" />
+<img src="https://user-images.githubusercontent.com/114124374/233733768-27be3352-341e-4d11-b04f-c2e76365423a.png" align="center" style="width: 10%" alt="AG Logo" />
 </div>
 
 <br/>
@@ -35,14 +35,14 @@ I'm a full-stack freelance web developer 👨‍💻 NSS Cohort 62 Graduated Jun
 ## My Projects:
 
 ### Full-Stack Final Capstone: Stay Gold, Cowboy
-- [client-side code](https://github.com/AngieMGonzalez/staygoldcowboy-client)
-- [server-side code](https://github.com/AngieMGonzalez/staygoldcowboy-server)
+- [client-side code](https://github.com/gonzalez-aj/staygoldcowboy-client)
+- [server-side code](https://github.com/gonzalez-aj/staygoldcowboy-server)
 - [video walk-through of MVP](https://www.loom.com/share/c0f3bf90f50745d586bc2de0fa3b7ca2?sid=b375587d-dd50-4685-a176-6fd9f3ea5f83)
 <img src="https://user-images.githubusercontent.com/114124374/250223135-c65c9156-002c-4cd6-b170-c4c9dcaf4565.png" align="center" style="width: 70%" alt="Stay Gold, Cowboy"/>
 
 
 ### Deployed Front-end Capstone: [SonGlue](https://songlue.netlify.app/)
-- [code](https://github.com/AngieMGonzalez/grabaudio)
+- [code](https://github.com/gonzalez-aj/grabaudio)
 - [video walk-through of MVP](https://www.loom.com/share/29511fce06db4be2bfbde6a31b344a07?sid=610dc7c1-da65-44f5-9c29-4af6915f9347)
 <img src="https://user-images.githubusercontent.com/114124374/251865329-e1c6ed42-1f42-4494-bdab-4b78d337a0a0.png" align="center" style="width: 70%" alt="SonGlue"/>
 
@@ -89,7 +89,7 @@ I'm a full-stack freelance web developer 👨‍💻 NSS Cohort 62 Graduated Jun
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AngieMGonzalez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gonzalez-aj&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
 
 <br/>  
