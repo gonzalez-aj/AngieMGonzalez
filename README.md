@@ -19,8 +19,6 @@ I'm a full-stack freelance web developer 👨‍💻 NSS Cohort 62 Graduated Jun
 </div>
 <br/>
 
-- 📥 I am open to work!
-
 - 🔗 You can find me on <a rel="me" href="https://infosec.exchange/@aj_g">Mastodon</a>
 
 - 🌱 Python, Django, SQL, React, Next.JS, HTML, CSS, Bootstrap, TailwindCSS
